@@ -1,0 +1,21 @@
+{
+  "name": "docker-starter",
+  "version": "1.0.0",
+  "description": "Starter Dockerfile configuration",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brootaylor/docker-starter.git"
+  },
+  "keywords": [
+    "docker"
+  ],
+  "author": "Bruce Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brootaylor/docker-starter/issues"
+  },
+  "homepage": "https://github.com/brootaylor/docker-starter#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
